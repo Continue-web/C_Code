@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\test\\Project1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80637DF3-3F1A-4D94-83DD-06428BC3C223}|Project1.vcxproj|C:\\Users\\hp\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\test\\Project1\\111.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80637DF3-3F1A-4D94-83DD-06428BC3C223}|Project1.vcxproj|solutionrelative:111.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "111.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\test\\Project1\\111.cpp",
+              "RelativeDocumentMoniker": "111.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\test\\Project1\\111.cpp",
+              "RelativeToolTip": "111.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T16:16:13.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
