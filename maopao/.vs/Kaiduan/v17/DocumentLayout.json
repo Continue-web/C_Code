@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u8BED\u8A00\\\u9879\u76EE\\\u5B9E\u9A8C\u62A5\u544A\\Kaiduan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A1B714-A11A-43FC-BA0B-144904B0597A}|Kaiduan\\Kaiduan.vcxproj|D:\\c\u8BED\u8A00\\\u9879\u76EE\\\u5B9E\u9A8C\u62A5\u544A\\Kaiduan\\Kaiduan\\maopao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12A1B714-A11A-43FC-BA0B-144904B0597A}|Kaiduan\\Kaiduan.vcxproj|solutionrelative:Kaiduan\\maopao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "maopao.c",
+              "DocumentMoniker": "D:\\c\u8BED\u8A00\\\u9879\u76EE\\\u5B9E\u9A8C\u62A5\u544A\\Kaiduan\\Kaiduan\\maopao.c",
+              "RelativeDocumentMoniker": "Kaiduan\\maopao.c",
+              "ToolTip": "D:\\c\u8BED\u8A00\\\u9879\u76EE\\\u5B9E\u9A8C\u62A5\u544A\\Kaiduan\\Kaiduan\\maopao.c",
+              "RelativeToolTip": "Kaiduan\\maopao.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-22T12:35:20.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
