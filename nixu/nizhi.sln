@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nizhi", "nizhi\nizhi.vcxproj", "{B27CD1A0-DE73-4E88-9726-34B7E1275A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27CD1A0-DE73-4E88-9726-34B7E1275A2B}.Debug|x64.ActiveCfg = Debug|x64
+		{B27CD1A0-DE73-4E88-9726-34B7E1275A2B}.Debug|x64.Build.0 = Debug|x64
+		{B27CD1A0-DE73-4E88-9726-34B7E1275A2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B27CD1A0-DE73-4E88-9726-34B7E1275A2B}.Debug|x86.Build.0 = Debug|Win32
+		{B27CD1A0-DE73-4E88-9726-34B7E1275A2B}.Release|x64.ActiveCfg = Release|x64
+		{B27CD1A0-DE73-4E88-9726-34B7E1275A2B}.Release|x64.Build.0 = Release|x64
+		{B27CD1A0-DE73-4E88-9726-34B7E1275A2B}.Release|x86.ActiveCfg = Release|Win32
+		{B27CD1A0-DE73-4E88-9726-34B7E1275A2B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8ECDC9-4832-40F7-9D4E-69C00924250D}
+	EndGlobalSection
+EndGlobal
